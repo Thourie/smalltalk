@@ -9,6 +9,7 @@
         <module name="auth-service" />
         <module name="post-service" />
         <module name="user-service" />
+        <module name="search-service" />
       </profile>
     </annotationProcessing>
   </component>
