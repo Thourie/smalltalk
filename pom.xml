@@ -9,12 +9,9 @@
     <packaging>pom</packaging>
 
     <modules>
-        <!-- Список модулей (микросервисов)
-        <module>service-a</module>
-        <module>service-b</module>
         <module>auth-service</module>
-        Добавьте здесь другие модули -->
-
+        <module>user-service</module>
+        <module>post-service</module>
     </modules>
 
     <properties>
