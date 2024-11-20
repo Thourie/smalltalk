@@ -16,6 +16,7 @@
         Добавьте здесь другие модули -->
 
         <module>auth-service</module>
+        <module>user-service</module>
     </modules>
 
     <properties>
