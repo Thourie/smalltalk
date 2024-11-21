@@ -17,6 +17,7 @@
         <module>notification-service</module>
         <module>feed-service</module>
         <module>comment-service</module>
+        <module>audit-service</module>
     </modules>
 
     <properties>
