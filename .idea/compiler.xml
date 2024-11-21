@@ -10,6 +10,8 @@
         <module name="post-service" />
         <module name="user-service" />
         <module name="search-service" />
+        <module name="gateway-service" />
+        <module name="notification-service" />
       </profile>
     </annotationProcessing>
   </component>
