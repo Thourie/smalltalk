@@ -1,12 +1,13 @@
 package com.thourie;
 
+
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FileServiceApplication {
+public class LogServiceApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(FileServiceApplication.class, args);
+        SpringApplication.run(LogServiceApplication.class, args);
     }
 }

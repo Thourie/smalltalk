@@ -13,7 +13,9 @@
         <module name="search-service" />
         <module name="gateway-service" />
         <module name="feed-service" />
+        <module name="log-service" />
         <module name="user-service" />
+        <module name="file-service" />
         <module name="notification-service" />
       </profile>
     </annotationProcessing>
