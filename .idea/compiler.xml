@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="auth-service" />
         <module name="post-service" />
+        <module name="comment-service" />
         <module name="search-service" />
         <module name="gateway-service" />
         <module name="feed-service" />
