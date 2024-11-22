@@ -1,9 +1,11 @@
-package com.thourie.models;
+package com.thourie.entities;
 
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
 import lombok.Setter;
+
+import java.util.List;
 
 @Entity
 @Table(name="accounts")
@@ -18,6 +20,11 @@ public class Account {
     private String login;
 
     private String password;
+
+    private String enail;
+
+    @OneToMany
+    private List<Role> roles;
 
 
 }
