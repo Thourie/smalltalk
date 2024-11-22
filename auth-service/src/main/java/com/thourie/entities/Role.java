@@ -1,4 +1,4 @@
-package com.thourie.models;
+package com.thourie.entities;
 
 import jakarta.persistence.*;
 import lombok.Getter;
